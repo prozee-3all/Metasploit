@@ -1,23 +1,12 @@
-# Metasploit
-wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
+Download f-droid and install termux 
+From f-droid because
+Termux is not updated in play stor/ app store
+All the update are available in f-droid
+Download f-droid from f-droid website
 
-Copy the link ☝️
- 
-And paste it on your terminal(kali/termux)
+Go to f-droid website and download f-droid 
+And now install termux
 
-cd Metasploit
-
-chmod -+x *
-
-ls
-
-./metasploit.sh
-
-Now wait a while
-To instal netaspliot on your termux/kali
-
-If it completely installed
-Now you can type "msfconsole" to run netaspliot on your termux
 
 
 
